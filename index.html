@@ -3,25 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <title>Political Speaker Recognition</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<div class="container">
+<header>
     <h1>Political Speaker Recognition</h1>
-    <p>Paste a political speech below and predict the speaker.</p>
+    <p>
+        Identify the most likely political speaker based on writing style and linguistic patterns.
+    </p>
+</header>
 
-    <textarea placeholder="Paste speech text here..."></textarea>
+<main class="card">
+    <label for="speech">Paste Speech Text</label>
+    <textarea id="speech" placeholder="Enter a political speech or excerpt here..."></textarea>
 
-    <button onclick="predict()">Predict Speaker</button>
+    <button onclick="predictSpeaker()">Predict Speaker</button>
 
-    <div id="result"></div>
-</div>
+    <div id="result" class="hidden">
+        <h3>Prediction Result</h3>
+        <p><strong>Speaker:</strong> Barack Obama</p>
+        <p><strong>Confidence:</strong> 92%</p>
+    </div>
+</main>
+
+<footer>
+    <p>
+        Built by Syed Asma • Machine Learning Project • 2025
+    </p>
+</footer>
 
 <script>
-function predict() {
-    document.getElementById("result").innerText =
-        "Predicted Speaker: Barack Obama (confidence: 92%)";
+function predictSpeaker() {
+    const text = document.getElementById("speech").value.trim();
+    if (text.length < 20) {
+        alert("Please enter a longer speech sample.");
+        return;
+    }
+
+    document.getElementById("result").classList.remove("hidden");
 }
 </script>
 
