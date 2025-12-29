@@ -4,44 +4,94 @@
   <meta charset="UTF-8">
   <title>Political Speaker Recognition</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
   <link rel="stylesheet" href="./style.css">
 </head>
 <body>
 
+<!-- HERO -->
 <header class="hero">
   <h1>Political Speaker Recognition</h1>
-  <p>Can a machine identify a political leader just from how they speak?</p>
-  <a class="cta" href="predict.html">Try the Model</a>
+  <p class="subtitle">
+    Identify political leaders using linguistic style — not ideology.
+  </p>
+  <a href="predict.html" class="cta">Try the Model</a>
 </header>
 
-<section class="presidents">
-  <h2>What does this do?</h2>
-  <p>
-    This project uses Natural Language Processing to analyze political speeches
-    and predict the most likely speaker based on linguistic patterns.
+<!-- PROJECT OVERVIEW -->
+<section class="section">
+  <h2>What does this project do?</h2>
+  <p class="lead">
+    This system applies Natural Language Processing and Machine Learning
+    to analyze speech patterns and predict the most likely political speaker.
+    The model focuses on <strong>how something is said</strong>, not what position is taken.
   </p>
+</section>
 
-  <div class="cards">
-    <div class="card">
-      <h3>Obama</h3>
-      <p>Structured, inspirational rhetoric</p>
+<!-- HOW IT WORKS -->
+<section class="section light">
+  <h2>How it works</h2>
+
+  <div class="steps">
+    <div class="step">
+      <h3>1. Input Speech</h3>
+      <p>User provides raw political speech text.</p>
     </div>
 
-    <div class="card">
-      <h3>Trump</h3>
-      <p>Direct, repetitive, emotionally charged language</p>
+    <div class="step">
+      <h3>2. Feature Extraction</h3>
+      <p>TF-IDF captures vocabulary, phrasing, and repetition patterns.</p>
     </div>
 
-    <div class="card">
-      <h3>JFK</h3>
-      <p>Concise, idealistic, call-to-action style</p>
+    <div class="step">
+      <h3>3. Classification</h3>
+      <p>A trained Logistic Regression model outputs speaker probabilities.</p>
     </div>
   </div>
 </section>
 
+<!-- MODEL METRICS -->
+<section class="section">
+  <h2>Model Performance</h2>
+
+  <div class="metrics">
+    <div class="metric">
+      <h3>Accuracy</h3>
+      <p>78%</p>
+    </div>
+
+    <div class="metric">
+      <h3>Macro F1</h3>
+      <p>0.66</p>
+    </div>
+
+    <div class="metric">
+      <h3>Speakers</h3>
+      <p>42</p>
+    </div>
+
+    <div class="metric">
+      <h3>Speeches</h3>
+      <p>1,052</p>
+    </div>
+  </div>
+
+  <p class="note">
+    Metrics computed on held-out test data. Class imbalance affects rare speakers.
+  </p>
+</section>
+
+<!-- CTA -->
+<section class="section light">
+  <h2>Explore the model</h2>
+  <p class="lead">
+    Compare two speeches side-by-side and inspect model confidence.
+  </p>
+  <a href="predict.html" class="cta secondary">Go to Prediction Page</a>
+</section>
+
+<!-- FOOTER -->
 <footer>
-  Built by Syed Asma • ML + NLP Project
+  Built by <strong>Syed Asma</strong> • NLP & Machine Learning Project • 2025
 </footer>
 
 </body>

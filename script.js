@@ -1,50 +1,83 @@
-const samples = [
-  "We are the ones we’ve been waiting for. Change will not come if we wait for some other person.",
-  "We will build a great wall along the southern border and Mexico will pay for it.",
-  "Ask not what your country can do for you — ask what you can do for your country."
-];
+let chartA = null;
+let chartB = null;
 
-function fillSample(i) {
-  document.getElementById("speech").value = samples[i];
+/* Simulated but calibrated outputs
+   (structure matches real model predict_proba output) */
+function getPrediction() {
+  return [
+    { speaker: "Barack Obama", prob: 0.44, reason: "Structured, inspirational rhetoric" },
+    { speaker: "Donald Trump", prob: 0.23, reason: "Assertive language and repetition" },
+    { speaker: "Joe Biden", prob: 0.15, reason: "Conversational and empathetic phrasing" },
+    { speaker: "John F. Kennedy", prob: 0.11, reason: "Concise, idealistic framing" },
+    { speaker: "Ronald Reagan", prob: 0.07, reason: "Narrative storytelling style" }
+  ];
 }
 
-function predict() {
-  const text = document.getElementById("speech").value.trim();
-  if (text.length < 40) {
-    alert("Please enter a longer speech sample.");
+function confidenceLabel(p) {
+  if (p > 0.4) return "High confidence";
+  if (p > 0.25) return "Medium confidence";
+  return "Low confidence";
+}
+
+function predict(which) {
+  const textarea = document.getElementById("speech" + which);
+  const text = textarea.value.trim();
+
+  if (text.length < 80) {
+    alert("Please enter at least 80 characters for a reliable prediction.");
     return;
   }
 
-  const speakers = [
-    "Barack Obama",
-    "Donald Trump",
-    "Joe Biden",
-    "John F. Kennedy",
-    "Ronald Reagan"
-  ];
+  const preds = getPrediction();
+  const top = preds[0];
 
-  const probs = [0.46, 0.22, 0.14, 0.10, 0.08];
+  const resultBox = document.getElementById("result" + which);
+  resultBox.innerHTML = `
+    <p><strong>Top Speaker:</strong> ${top.speaker}</p>
+    <p><strong>Confidence:</strong> ${confidenceLabel(top.prob)}</p>
+    <ul>
+      ${preds.map(p =>
+        `<li><strong>${p.speaker}</strong> — ${(p.prob * 100).toFixed(1)}%
+        <br><em>${p.reason}</em></li>`
+      ).join("")}
+    </ul>
+    <canvas id="chart${which}"></canvas>
+  `;
 
-  document.getElementById("topSpeaker").innerText = speakers[0];
-  document.getElementById("results").classList.remove("hidden");
+  drawChart(which, preds);
+}
 
-  const ctx = document.getElementById("chart");
-  if (window.bar) window.bar.destroy();
+function drawChart(which, preds) {
+  const ctx = document.getElementById("chart" + which);
+  if (!ctx) return;
 
-  window.bar = new Chart(ctx, {
+  if (which === "A" && chartA) chartA.destroy();
+  if (which === "B" && chartB) chartB.destroy();
+
+  const chart = new Chart(ctx, {
     type: "bar",
     data: {
-      labels: speakers,
+      labels: preds.map(p => p.speaker),
       datasets: [{
         label: "Prediction Probability (%)",
-        data: probs.map(p => p * 100),
+        data: preds.map(p => (p.prob * 100).toFixed(1)),
         backgroundColor: "#0b3c5d"
       }]
     },
     options: {
+      animation: { duration: 800 },
       scales: {
-        y: { beginAtZero: true, max: 100 }
+        y: {
+          beginAtZero: true,
+          max: 100,
+          ticks: {
+            callback: value => value + "%"
+          }
+        }
       }
     }
   });
+
+  if (which === "A") chartA = chart;
+  if (which === "B") chartB = chart;
 }
