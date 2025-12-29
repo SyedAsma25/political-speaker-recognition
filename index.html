@@ -4,46 +4,99 @@
     <meta charset="UTF-8">
     <title>Political Speaker Recognition</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- React -->
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+    <!-- Chart -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<header>
-    <h1>Political Speaker Recognition</h1>
-    <p>
-        Identify the most likely political speaker based on writing style and linguistic patterns.
-    </p>
-</header>
-
-<main class="card">
-    <label for="speech">Paste Speech Text</label>
-    <textarea id="speech" placeholder="Enter a political speech or excerpt here..."></textarea>
-
-    <button onclick="predictSpeaker()">Predict Speaker</button>
-
-    <div id="result" class="hidden">
-        <h3>Prediction Result</h3>
-        <p><strong>Speaker:</strong> Barack Obama</p>
-        <p><strong>Confidence:</strong> 92%</p>
-    </div>
-</main>
-
-<footer>
-    <p>
-        Built by Syed Asma • Machine Learning Project • 2025
-    </p>
-</footer>
+<div id="root"></div>
 
 <script>
-function predictSpeaker() {
-    const text = document.getElementById("speech").value.trim();
-    if (text.length < 20) {
-        alert("Please enter a longer speech sample.");
-        return;
+const { useState, useEffect, useRef } = React;
+
+function App() {
+    const [text, setText] = useState("");
+    const [show, setShow] = useState(false);
+    const chartRef = useRef(null);
+
+    const speakers = [
+        "Barack Obama",
+        "Donald Trump",
+        "Joe Biden",
+        "Ronald Reagan",
+        "John F. Kennedy"
+    ];
+
+    const probabilities = [42, 21, 17, 12, 8];
+
+    useEffect(() => {
+        if (show) {
+            const ctx = chartRef.current.getContext("2d");
+            new Chart(ctx, {
+                type: "bar",
+                data: {
+                    labels: speakers,
+                    datasets: [{
+                        label: "Prediction Probability (%)",
+                        data: probabilities,
+                        backgroundColor: "#0b3c5d"
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            max: 100
+                        }
+                    }
+                }
+            });
+        }
+    }, [show]);
+
+    function predict() {
+        if (text.length < 30) {
+            alert("Please enter a longer speech.");
+            return;
+        }
+        setShow(true);
     }
 
-    document.getElementById("result").classList.remove("hidden");
+    return (
+        React.createElement("div", null,
+            React.createElement("header", null,
+                React.createElement("h1", null, "Political Speaker Recognition"),
+                React.createElement("p", null, "Predict political speakers using NLP")
+            ),
+            React.createElement("main", { className: "card" },
+                React.createElement("textarea", {
+                    placeholder: "Paste speech text here...",
+                    value: text,
+                    onChange: e => setText(e.target.value)
+                }),
+                React.createElement("button", { onClick: predict }, "Predict Speaker"),
+                show && React.createElement("div", { id: "result" },
+                    React.createElement("p", null, "Top Speaker: Barack Obama (42%)"),
+                    React.createElement("canvas", { ref: chartRef })
+                )
+            ),
+            React.createElement("footer", null,
+                "Built by Syed Asma • React + ML Demo"
+            )
+        )
+    );
 }
+
+ReactDOM.createRoot(document.getElementById("root")).render(
+    React.createElement(App)
+);
 </script>
 
 </body>
