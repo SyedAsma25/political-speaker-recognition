@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data & models (ML artifacts)
+data/
+models/
+
+# OS junk
+.DS_Store
+Thumbs.db
