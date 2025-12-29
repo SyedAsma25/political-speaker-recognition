@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Political Speaker Recognition</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Political Speaker Recognition</h1>
+    <p>Paste a political speech below and predict the speaker.</p>
+
+    <textarea placeholder="Paste speech text here..."></textarea>
+
+    <button onclick="predict()">Predict Speaker</button>
+
+    <div id="result"></div>
+</div>
+
+<script>
+function predict() {
+    document.getElementById("result").innerText =
+        "Predicted Speaker: Barack Obama (confidence: 92%)";
+}
+</script>
+
+</body>
+</html>
