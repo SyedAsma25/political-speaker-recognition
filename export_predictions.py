@@ -2,35 +2,31 @@ import joblib
 import pandas as pd
 import json
 
-# ------------------
-# LOAD MODEL + VECTORIZER
-# ------------------
-vectorizer, model = joblib.load("models/tfidf_logreg.pkl")
+MODEL_PATH = "models/tfidf_logreg.pkl"
+DATA_PATH = "data/processed/speeches.csv"
+OUT_PATH = "predictions.json"
 
-# ------------------
-# LOAD DATA
-# ------------------
-df = pd.read_csv("data/processed/speeches.csv")
+print("EXPORTING REAL MODEL PREDICTIONS")
 
-if df.empty:
-    raise ValueError("Dataset is empty")
+# Load model
+vectorizer, model = joblib.load(MODEL_PATH)
 
-texts = df["text"].astype(str).iloc[:200]
+# Load data
+df = pd.read_csv(DATA_PATH)
+df["text"] = df["text"].astype(str)
 
-# ------------------
-# VECTORIZE
-# ------------------
+# Use only long speeches (match training)
+df = df[df["text"].str.len() >= 400].reset_index(drop=True)
+
+texts = df["text"].iloc[:200]  # limit for demo
+
+# Vectorize
 X = vectorizer.transform(texts)
 
-# ------------------
-# PREDICT PROBABILITIES
-# ------------------
+# Predict probabilities
 probs = model.predict_proba(X)
 labels = model.classes_
 
-# ------------------
-# FORMAT OUTPUT
-# ------------------
 output = []
 
 for i, row in enumerate(probs):
@@ -38,12 +34,12 @@ for i, row in enumerate(probs):
         zip(labels, row),
         key=lambda x: x[1],
         reverse=True
-    )[:5]
+    )[:3]
 
     output.append({
         "id": int(i),
         "top_prediction": ranked[0][0],
-        "distribution": [
+        "top_3": [
             {
                 "speaker": speaker,
                 "probability": round(float(prob), 3)
@@ -52,10 +48,7 @@ for i, row in enumerate(probs):
         ]
     })
 
-# ------------------
-# SAVE
-# ------------------
-with open("predictions.json", "w") as f:
+with open(OUT_PATH, "w") as f:
     json.dump(output, f, indent=2)
 
-print("Exported predictions.json successfully")
+print(f"Saved {OUT_PATH} with {len(output)} predictions")

@@ -2,7 +2,7 @@
   {
     "id": 0,
     "top_prediction": "Lyndon B. Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.063
@@ -14,21 +14,13 @@
       {
         "speaker": "John F. Kennedy",
         "probability": 0.055
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.05
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.038
       }
     ]
   },
   {
     "id": 1,
     "top_prediction": "Abraham Lincoln",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Abraham Lincoln",
         "probability": 0.109
@@ -40,21 +32,13 @@
       {
         "speaker": "Andrew Johnson",
         "probability": 0.043
-      },
-      {
-        "speaker": "John F. Kennedy",
-        "probability": 0.038
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.038
       }
     ]
   },
   {
     "id": 2,
     "top_prediction": "Ronald Reagan",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ronald Reagan",
         "probability": 0.053
@@ -66,21 +50,13 @@
       {
         "speaker": "Barack Obama",
         "probability": 0.043
-      },
-      {
-        "speaker": "John F. Kennedy",
-        "probability": 0.039
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.039
       }
     ]
   },
   {
     "id": 3,
     "top_prediction": "Abraham Lincoln",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Abraham Lincoln",
         "probability": 0.081
@@ -92,21 +68,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.047
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.042
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.039
       }
     ]
   },
   {
     "id": 4,
     "top_prediction": "Ronald Reagan",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ronald Reagan",
         "probability": 0.06
@@ -118,21 +86,13 @@
       {
         "speaker": "Barack Obama",
         "probability": 0.048
-      },
-      {
-        "speaker": "John F. Kennedy",
-        "probability": 0.045
-      },
-      {
-        "speaker": "Bill Clinton",
-        "probability": 0.044
       }
     ]
   },
   {
     "id": 5,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.08
@@ -144,21 +104,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.056
-      },
-      {
-        "speaker": "Ulysses S. Grant",
-        "probability": 0.041
-      },
-      {
-        "speaker": "Woodrow Wilson",
-        "probability": 0.036
       }
     ]
   },
   {
     "id": 6,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.098
@@ -170,21 +122,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.042
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.038
-      },
-      {
-        "speaker": "Abraham Lincoln",
-        "probability": 0.034
       }
     ]
   },
   {
     "id": 7,
     "top_prediction": "Abraham Lincoln",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Abraham Lincoln",
         "probability": 0.061
@@ -196,21 +140,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.05
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.046
-      },
-      {
-        "speaker": "Andrew Jackson",
-        "probability": 0.045
       }
     ]
   },
   {
     "id": 8,
     "top_prediction": "Abraham Lincoln",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Abraham Lincoln",
         "probability": 0.075
@@ -222,21 +158,13 @@
       {
         "speaker": "Andrew Johnson",
         "probability": 0.057
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.043
-      },
-      {
-        "speaker": "Andrew Jackson",
-        "probability": 0.034
       }
     ]
   },
   {
     "id": 9,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.137
@@ -248,21 +176,13 @@
       {
         "speaker": "George Washington",
         "probability": 0.035
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.034
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.032
       }
     ]
   },
   {
     "id": 10,
     "top_prediction": "Abraham Lincoln",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Abraham Lincoln",
         "probability": 0.064
@@ -274,21 +194,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.053
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.049
-      },
-      {
-        "speaker": "Woodrow Wilson",
-        "probability": 0.045
       }
     ]
   },
   {
     "id": 11,
     "top_prediction": "Ronald Reagan",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ronald Reagan",
         "probability": 0.066
@@ -300,21 +212,13 @@
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.052
-      },
-      {
-        "speaker": "Woodrow Wilson",
-        "probability": 0.047
-      },
-      {
-        "speaker": "Abraham Lincoln",
-        "probability": 0.047
       }
     ]
   },
   {
     "id": 12,
     "top_prediction": "Ulysses S. Grant",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.068
@@ -326,21 +230,13 @@
       {
         "speaker": "Abraham Lincoln",
         "probability": 0.055
-      },
-      {
-        "speaker": "Andrew Jackson",
-        "probability": 0.047
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.042
       }
     ]
   },
   {
     "id": 13,
     "top_prediction": "Abraham Lincoln",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Abraham Lincoln",
         "probability": 0.058
@@ -352,21 +248,13 @@
       {
         "speaker": "Andrew Johnson",
         "probability": 0.055
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.048
-      },
-      {
-        "speaker": "Andrew Jackson",
-        "probability": 0.039
       }
     ]
   },
   {
     "id": 14,
     "top_prediction": "Abraham Lincoln",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Abraham Lincoln",
         "probability": 0.065
@@ -378,21 +266,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.055
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.048
-      },
-      {
-        "speaker": "John F. Kennedy",
-        "probability": 0.041
       }
     ]
   },
   {
     "id": 15,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.057
@@ -404,21 +284,13 @@
       {
         "speaker": "Thomas Jefferson",
         "probability": 0.042
-      },
-      {
-        "speaker": "James Madison",
-        "probability": 0.038
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 16,
     "top_prediction": "Ulysses S. Grant",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.077
@@ -430,21 +302,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.042
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.038
-      },
-      {
-        "speaker": "George Washington",
-        "probability": 0.038
       }
     ]
   },
   {
     "id": 17,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.18
@@ -456,21 +320,13 @@
       {
         "speaker": "Andrew Johnson",
         "probability": 0.04
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.038
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.038
       }
     ]
   },
   {
     "id": 18,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.124
@@ -482,21 +338,13 @@
       {
         "speaker": "George Washington",
         "probability": 0.039
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.038
-      },
-      {
-        "speaker": "Ulysses S. Grant",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 19,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.19
@@ -508,21 +356,13 @@
       {
         "speaker": "Grover Cleveland",
         "probability": 0.039
-      },
-      {
-        "speaker": "John Tyler",
-        "probability": 0.032
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.031
       }
     ]
   },
   {
     "id": 20,
     "top_prediction": "Ulysses S. Grant",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.081
@@ -534,21 +374,13 @@
       {
         "speaker": "Andrew Johnson",
         "probability": 0.056
-      },
-      {
-        "speaker": "James Madison",
-        "probability": 0.05
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.036
       }
     ]
   },
   {
     "id": 21,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.222
@@ -560,21 +392,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.036
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.036
-      },
-      {
-        "speaker": "George Washington",
-        "probability": 0.035
       }
     ]
   },
   {
     "id": 22,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.162
@@ -586,21 +410,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.046
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.045
-      },
-      {
-        "speaker": "George Washington",
-        "probability": 0.04
       }
     ]
   },
   {
     "id": 23,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.139
@@ -612,21 +428,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.045
-      },
-      {
-        "speaker": "George Washington",
-        "probability": 0.039
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.038
       }
     ]
   },
   {
     "id": 24,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.099
@@ -638,21 +446,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.038
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.037
-      },
-      {
-        "speaker": "Thomas Jefferson",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 25,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.202
@@ -664,21 +464,13 @@
       {
         "speaker": "John Tyler",
         "probability": 0.039
-      },
-      {
-        "speaker": "Ulysses S. Grant",
-        "probability": 0.039
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.034
       }
     ]
   },
   {
     "id": 26,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.143
@@ -690,21 +482,13 @@
       {
         "speaker": "George Washington",
         "probability": 0.04
-      },
-      {
-        "speaker": "Thomas Jefferson",
-        "probability": 0.04
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.038
       }
     ]
   },
   {
     "id": 27,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.097
@@ -716,21 +500,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.036
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.035
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.035
       }
     ]
   },
   {
     "id": 28,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.147
@@ -742,21 +518,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.05
-      },
-      {
-        "speaker": "George Washington",
-        "probability": 0.033
-      },
-      {
-        "speaker": "James Buchanan",
-        "probability": 0.031
       }
     ]
   },
   {
     "id": 29,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.141
@@ -768,21 +536,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.05
-      },
-      {
-        "speaker": "George Washington",
-        "probability": 0.035
-      },
-      {
-        "speaker": "James Buchanan",
-        "probability": 0.032
       }
     ]
   },
   {
     "id": 30,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.111
@@ -794,21 +554,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.038
-      },
-      {
-        "speaker": "George Washington",
-        "probability": 0.038
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.036
       }
     ]
   },
   {
     "id": 31,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.22
@@ -820,21 +572,13 @@
       {
         "speaker": "Grover Cleveland",
         "probability": 0.037
-      },
-      {
-        "speaker": "Andrew Johnson",
-        "probability": 0.03
-      },
-      {
-        "speaker": "Ulysses S. Grant",
-        "probability": 0.03
       }
     ]
   },
   {
     "id": 32,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.172
@@ -846,21 +590,13 @@
       {
         "speaker": "James K. Polk",
         "probability": 0.043
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.041
-      },
-      {
-        "speaker": "James Madison",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 33,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.112
@@ -872,21 +608,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.047
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.037
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.036
       }
     ]
   },
   {
     "id": 34,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.194
@@ -898,21 +626,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.045
-      },
-      {
-        "speaker": "John Tyler",
-        "probability": 0.034
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.031
       }
     ]
   },
   {
     "id": 35,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.052
@@ -924,21 +644,13 @@
       {
         "speaker": "Grover Cleveland",
         "probability": 0.041
-      },
-      {
-        "speaker": "Ulysses S. Grant",
-        "probability": 0.041
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.041
       }
     ]
   },
   {
     "id": 36,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.19
@@ -950,21 +662,13 @@
       {
         "speaker": "James K. Polk",
         "probability": 0.044
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.042
-      },
-      {
-        "speaker": "John Tyler",
-        "probability": 0.036
       }
     ]
   },
   {
     "id": 37,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.19
@@ -976,21 +680,13 @@
       {
         "speaker": "Grover Cleveland",
         "probability": 0.045
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.04
-      },
-      {
-        "speaker": "John Tyler",
-        "probability": 0.034
       }
     ]
   },
   {
     "id": 38,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.194
@@ -1002,21 +698,13 @@
       {
         "speaker": "John Tyler",
         "probability": 0.043
-      },
-      {
-        "speaker": "Ulysses S. Grant",
-        "probability": 0.039
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 39,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.1
@@ -1028,21 +716,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.05
-      },
-      {
-        "speaker": "Andrew Johnson",
-        "probability": 0.042
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.036
       }
     ]
   },
   {
     "id": 40,
     "top_prediction": "Andrew Jackson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Jackson",
         "probability": 0.158
@@ -1054,21 +734,13 @@
       {
         "speaker": "Grover Cleveland",
         "probability": 0.037
-      },
-      {
-        "speaker": "Ulysses S. Grant",
-        "probability": 0.035
-      },
-      {
-        "speaker": "Woodrow Wilson",
-        "probability": 0.033
       }
     ]
   },
   {
     "id": 41,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.069
@@ -1080,21 +752,13 @@
       {
         "speaker": "Woodrow Wilson",
         "probability": 0.046
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.041
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.04
       }
     ]
   },
   {
     "id": 42,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.122
@@ -1106,21 +770,13 @@
       {
         "speaker": "Thomas Jefferson",
         "probability": 0.039
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.038
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.035
       }
     ]
   },
   {
     "id": 43,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.213
@@ -1132,21 +788,13 @@
       {
         "speaker": "James K. Polk",
         "probability": 0.034
-      },
-      {
-        "speaker": "Thomas Jefferson",
-        "probability": 0.031
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.031
       }
     ]
   },
   {
     "id": 44,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.221
@@ -1158,21 +806,13 @@
       {
         "speaker": "George Washington",
         "probability": 0.034
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.03
-      },
-      {
-        "speaker": "James Madison",
-        "probability": 0.03
       }
     ]
   },
   {
     "id": 45,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.313
@@ -1184,21 +824,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.035
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.03
-      },
-      {
-        "speaker": "George Washington",
-        "probability": 0.026
       }
     ]
   },
   {
     "id": 46,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.135
@@ -1210,21 +842,13 @@
       {
         "speaker": "Grover Cleveland",
         "probability": 0.039
-      },
-      {
-        "speaker": "Ulysses S. Grant",
-        "probability": 0.038
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.034
       }
     ]
   },
   {
     "id": 47,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.119
@@ -1236,21 +860,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.037
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.035
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.034
       }
     ]
   },
   {
     "id": 48,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.142
@@ -1262,21 +878,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.057
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.035
-      },
-      {
-        "speaker": "Franklin Pierce",
-        "probability": 0.032
       }
     ]
   },
   {
     "id": 49,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.217
@@ -1288,21 +896,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.046
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.037
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.033
       }
     ]
   },
   {
     "id": 50,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.272
@@ -1314,21 +914,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.038
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.03
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.026
       }
     ]
   },
   {
     "id": 51,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.233
@@ -1340,21 +932,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.049
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.033
-      },
-      {
-        "speaker": "Rutherford B. Hayes",
-        "probability": 0.033
       }
     ]
   },
   {
     "id": 52,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.26
@@ -1366,21 +950,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.037
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.034
-      },
-      {
-        "speaker": "George Washington",
-        "probability": 0.029
       }
     ]
   },
   {
     "id": 53,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.286
@@ -1392,21 +968,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.034
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.03
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.03
       }
     ]
   },
   {
     "id": 54,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.25
@@ -1418,21 +986,13 @@
       {
         "speaker": "James K. Polk",
         "probability": 0.037
-      },
-      {
-        "speaker": "Andrew Jackson",
-        "probability": 0.035
-      },
-      {
-        "speaker": "George Washington",
-        "probability": 0.03
       }
     ]
   },
   {
     "id": 55,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.179
@@ -1444,21 +1004,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.056
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.043
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 56,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.165
@@ -1470,21 +1022,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.046
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.035
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.035
       }
     ]
   },
   {
     "id": 57,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.221
@@ -1496,21 +1040,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.037
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.031
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.029
       }
     ]
   },
   {
     "id": 58,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.191
@@ -1522,21 +1058,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.038
-      },
-      {
-        "speaker": "Woodrow Wilson",
-        "probability": 0.032
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.031
       }
     ]
   },
   {
     "id": 59,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.254
@@ -1548,21 +1076,13 @@
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.035
-      },
-      {
-        "speaker": "Andrew Jackson",
-        "probability": 0.031
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.028
       }
     ]
   },
   {
     "id": 60,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.259
@@ -1574,21 +1094,13 @@
       {
         "speaker": "Grover Cleveland",
         "probability": 0.029
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.028
-      },
-      {
-        "speaker": "Andrew Jackson",
-        "probability": 0.025
       }
     ]
   },
   {
     "id": 61,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.3
@@ -1600,21 +1112,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.051
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.032
-      },
-      {
-        "speaker": "Rutherford B. Hayes",
-        "probability": 0.03
       }
     ]
   },
   {
     "id": 62,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.266
@@ -1626,21 +1130,13 @@
       {
         "speaker": "George Washington",
         "probability": 0.032
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.028
-      },
-      {
-        "speaker": "James Madison",
-        "probability": 0.027
       }
     ]
   },
   {
     "id": 63,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.138
@@ -1652,21 +1148,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.054
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.05
-      },
-      {
-        "speaker": "James Buchanan",
-        "probability": 0.033
       }
     ]
   },
   {
     "id": 64,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.112
@@ -1678,21 +1166,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.044
-      },
-      {
-        "speaker": "Ulysses S. Grant",
-        "probability": 0.039
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.034
       }
     ]
   },
   {
     "id": 65,
     "top_prediction": "Lyndon B. Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.082
@@ -1704,21 +1184,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.045
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.045
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.034
       }
     ]
   },
   {
     "id": 66,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.091
@@ -1730,21 +1202,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.051
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.044
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.038
       }
     ]
   },
   {
     "id": 67,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.144
@@ -1756,21 +1220,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.039
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.037
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.031
       }
     ]
   },
   {
     "id": 68,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.227
@@ -1782,21 +1238,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.045
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.03
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.028
       }
     ]
   },
   {
     "id": 69,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.157
@@ -1808,21 +1256,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.044
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.042
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.031
       }
     ]
   },
   {
     "id": 70,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.229
@@ -1834,21 +1274,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.034
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.033
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.031
       }
     ]
   },
   {
     "id": 71,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.093
@@ -1860,21 +1292,13 @@
       {
         "speaker": "Grover Cleveland",
         "probability": 0.073
-      },
-      {
-        "speaker": "Andrew Jackson",
-        "probability": 0.041
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.034
       }
     ]
   },
   {
     "id": 72,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.119
@@ -1886,21 +1310,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.06
-      },
-      {
-        "speaker": "Bill Clinton",
-        "probability": 0.051
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.048
       }
     ]
   },
   {
     "id": 73,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.108
@@ -1912,21 +1328,13 @@
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.064
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.058
-      },
-      {
-        "speaker": "Bill Clinton",
-        "probability": 0.057
       }
     ]
   },
   {
     "id": 74,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.161
@@ -1938,21 +1346,13 @@
       {
         "speaker": "Bill Clinton",
         "probability": 0.058
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.057
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.055
       }
     ]
   },
   {
     "id": 75,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.219
@@ -1964,21 +1364,13 @@
       {
         "speaker": "Bill Clinton",
         "probability": 0.058
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.057
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.044
       }
     ]
   },
   {
     "id": 76,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.291
@@ -1990,21 +1382,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.058
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.05
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.04
       }
     ]
   },
   {
     "id": 77,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.328
@@ -2016,21 +1400,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.062
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.058
-      },
-      {
-        "speaker": "Joe Biden",
-        "probability": 0.042
       }
     ]
   },
   {
     "id": 78,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.213
@@ -2042,21 +1418,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.046
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.045
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 79,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.127
@@ -2068,21 +1436,13 @@
       {
         "speaker": "Bill Clinton",
         "probability": 0.065
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.063
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.062
       }
     ]
   },
   {
     "id": 80,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.281
@@ -2094,21 +1454,13 @@
       {
         "speaker": "Bill Clinton",
         "probability": 0.062
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.05
-      },
-      {
-        "speaker": "Joe Biden",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 81,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.222
@@ -2120,21 +1472,13 @@
       {
         "speaker": "George W. Bush",
         "probability": 0.051
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.046
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.035
       }
     ]
   },
   {
     "id": 82,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.182
@@ -2146,21 +1490,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.06
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.046
-      },
-      {
-        "speaker": "John F. Kennedy",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 83,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.404
@@ -2172,21 +1508,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.072
-      },
-      {
-        "speaker": "Joe Biden",
-        "probability": 0.054
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.041
       }
     ]
   },
   {
     "id": 84,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.296
@@ -2198,21 +1526,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.045
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.038
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.036
       }
     ]
   },
   {
     "id": 85,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.29
@@ -2224,21 +1544,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.049
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.04
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.036
       }
     ]
   },
   {
     "id": 86,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.163
@@ -2250,21 +1562,13 @@
       {
         "speaker": "Joe Biden",
         "probability": 0.07
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.067
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.057
       }
     ]
   },
   {
     "id": 87,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.308
@@ -2276,21 +1580,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.044
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.041
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.03
       }
     ]
   },
   {
     "id": 88,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.277
@@ -2302,21 +1598,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.047
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.034
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.032
       }
     ]
   },
   {
     "id": 89,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.224
@@ -2328,21 +1616,13 @@
       {
         "speaker": "George W. Bush",
         "probability": 0.06
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.051
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.035
       }
     ]
   },
   {
     "id": 90,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.237
@@ -2354,21 +1634,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.061
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.048
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 91,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.309
@@ -2380,21 +1652,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.051
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.049
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.043
       }
     ]
   },
   {
     "id": 92,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.24
@@ -2406,21 +1670,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.053
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.049
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.045
       }
     ]
   },
   {
     "id": 93,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.193
@@ -2432,21 +1688,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.058
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.04
-      },
-      {
-        "speaker": "Herbert Hoover",
-        "probability": 0.034
       }
     ]
   },
   {
     "id": 94,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.243
@@ -2458,21 +1706,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.046
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.045
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.042
       }
     ]
   },
   {
     "id": 95,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.262
@@ -2484,21 +1724,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.055
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.034
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.033
       }
     ]
   },
   {
     "id": 96,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.163
@@ -2510,21 +1742,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.064
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.045
-      },
-      {
-        "speaker": "Herbert Hoover",
-        "probability": 0.035
       }
     ]
   },
   {
     "id": 97,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.249
@@ -2536,21 +1760,13 @@
       {
         "speaker": "George W. Bush",
         "probability": 0.048
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.042
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.032
       }
     ]
   },
   {
     "id": 98,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.277
@@ -2562,21 +1778,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.045
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.04
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.036
       }
     ]
   },
   {
     "id": 99,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.23
@@ -2588,21 +1796,13 @@
       {
         "speaker": "George W. Bush",
         "probability": 0.067
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.042
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 100,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.292
@@ -2614,21 +1814,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.044
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.041
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.034
       }
     ]
   },
   {
     "id": 101,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.297
@@ -2640,21 +1832,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.052
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.042
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.04
       }
     ]
   },
   {
     "id": 102,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.25
@@ -2666,21 +1850,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.052
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.043
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.041
       }
     ]
   },
   {
     "id": 103,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.251
@@ -2692,21 +1868,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.049
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.041
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.034
       }
     ]
   },
   {
     "id": 104,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.232
@@ -2718,21 +1886,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.051
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.041
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.038
       }
     ]
   },
   {
     "id": 105,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.229
@@ -2744,21 +1904,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.048
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.041
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.035
       }
     ]
   },
   {
     "id": 106,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.272
@@ -2770,21 +1922,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.046
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.039
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.038
       }
     ]
   },
   {
     "id": 107,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.242
@@ -2796,21 +1940,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.057
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.046
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.04
       }
     ]
   },
   {
     "id": 108,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.244
@@ -2822,21 +1958,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.053
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.044
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.038
       }
     ]
   },
   {
     "id": 109,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.263
@@ -2848,21 +1976,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.049
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.041
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.035
       }
     ]
   },
   {
     "id": 110,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.227
@@ -2874,21 +1994,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.056
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.048
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.048
       }
     ]
   },
   {
     "id": 111,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.354
@@ -2900,21 +2012,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.064
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.033
-      },
-      {
-        "speaker": "Bill Clinton",
-        "probability": 0.03
       }
     ]
   },
   {
     "id": 112,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.216
@@ -2926,21 +2030,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.055
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.04
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.039
       }
     ]
   },
   {
     "id": 113,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.328
@@ -2952,21 +2048,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.043
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.038
-      },
-      {
-        "speaker": "Bill Clinton",
-        "probability": 0.033
       }
     ]
   },
   {
     "id": 114,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.321
@@ -2978,21 +2066,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.05
-      },
-      {
-        "speaker": "Bill Clinton",
-        "probability": 0.042
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.035
       }
     ]
   },
   {
     "id": 115,
     "top_prediction": "Donald Trump",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Donald Trump",
         "probability": 0.137
@@ -3004,21 +2084,13 @@
       {
         "speaker": "Bill Clinton",
         "probability": 0.071
-      },
-      {
-        "speaker": "Joe Biden",
-        "probability": 0.064
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.053
       }
     ]
   },
   {
     "id": 116,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.274
@@ -3030,21 +2102,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.045
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.04
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.035
       }
     ]
   },
   {
     "id": 117,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.23
@@ -3056,21 +2120,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.052
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.044
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.038
       }
     ]
   },
   {
     "id": 118,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.228
@@ -3082,21 +2138,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.047
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.045
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.039
       }
     ]
   },
   {
     "id": 119,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.405
@@ -3108,21 +2156,13 @@
       {
         "speaker": "Joe Biden",
         "probability": 0.092
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.066
-      },
-      {
-        "speaker": "Bill Clinton",
-        "probability": 0.032
       }
     ]
   },
   {
     "id": 120,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.25
@@ -3134,21 +2174,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.047
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.042
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.033
       }
     ]
   },
   {
     "id": 121,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.247
@@ -3160,21 +2192,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.046
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.045
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.033
       }
     ]
   },
   {
     "id": 122,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.263
@@ -3186,21 +2210,13 @@
       {
         "speaker": "Joe Biden",
         "probability": 0.076
-      },
-      {
-        "speaker": "Bill Clinton",
-        "probability": 0.061
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.049
       }
     ]
   },
   {
     "id": 123,
     "top_prediction": "Benjamin Harrison",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Benjamin Harrison",
         "probability": 0.051
@@ -3212,21 +2228,13 @@
       {
         "speaker": "Woodrow Wilson",
         "probability": 0.046
-      },
-      {
-        "speaker": "Barack Obama",
-        "probability": 0.041
-      },
-      {
-        "speaker": "Ulysses S. Grant",
-        "probability": 0.04
       }
     ]
   },
   {
     "id": 124,
     "top_prediction": "Ulysses S. Grant",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.072
@@ -3238,21 +2246,13 @@
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.045
-      },
-      {
-        "speaker": "Benjamin Harrison",
-        "probability": 0.042
-      },
-      {
-        "speaker": "Andrew Johnson",
-        "probability": 0.038
       }
     ]
   },
   {
     "id": 125,
     "top_prediction": "Lyndon B. Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.052
@@ -3264,21 +2264,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.048
-      },
-      {
-        "speaker": "Benjamin Harrison",
-        "probability": 0.044
-      },
-      {
-        "speaker": "Herbert Hoover",
-        "probability": 0.044
       }
     ]
   },
   {
     "id": 126,
     "top_prediction": "Grover Cleveland",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Grover Cleveland",
         "probability": 0.084
@@ -3290,21 +2282,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.054
-      },
-      {
-        "speaker": "Rutherford B. Hayes",
-        "probability": 0.047
-      },
-      {
-        "speaker": "Theodore Roosevelt",
-        "probability": 0.045
       }
     ]
   },
   {
     "id": 127,
     "top_prediction": "Lyndon B. Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.045
@@ -3316,21 +2300,13 @@
       {
         "speaker": "Franklin D. Roosevelt",
         "probability": 0.041
-      },
-      {
-        "speaker": "Ulysses S. Grant",
-        "probability": 0.038
-      },
-      {
-        "speaker": "John F. Kennedy",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 128,
     "top_prediction": "Ronald Reagan",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ronald Reagan",
         "probability": 0.052
@@ -3342,21 +2318,13 @@
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.043
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.041
-      },
-      {
-        "speaker": "John F. Kennedy",
-        "probability": 0.04
       }
     ]
   },
   {
     "id": 129,
     "top_prediction": "Benjamin Harrison",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Benjamin Harrison",
         "probability": 0.061
@@ -3368,21 +2336,13 @@
       {
         "speaker": "Herbert Hoover",
         "probability": 0.042
-      },
-      {
-        "speaker": "Ulysses S. Grant",
-        "probability": 0.039
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.039
       }
     ]
   },
   {
     "id": 130,
     "top_prediction": "Andrew Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Andrew Johnson",
         "probability": 0.068
@@ -3394,21 +2354,13 @@
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.042
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.04
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.04
       }
     ]
   },
   {
     "id": 131,
     "top_prediction": "Benjamin Harrison",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Benjamin Harrison",
         "probability": 0.077
@@ -3420,21 +2372,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.055
-      },
-      {
-        "speaker": "Theodore Roosevelt",
-        "probability": 0.044
-      },
-      {
-        "speaker": "Andrew Jackson",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 132,
     "top_prediction": "Benjamin Harrison",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Benjamin Harrison",
         "probability": 0.058
@@ -3446,21 +2390,13 @@
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.047
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.043
-      },
-      {
-        "speaker": "Ulysses S. Grant",
-        "probability": 0.042
       }
     ]
   },
   {
     "id": 133,
     "top_prediction": "Grover Cleveland",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Grover Cleveland",
         "probability": 0.116
@@ -3472,21 +2408,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.058
-      },
-      {
-        "speaker": "Theodore Roosevelt",
-        "probability": 0.044
-      },
-      {
-        "speaker": "Rutherford B. Hayes",
-        "probability": 0.043
       }
     ]
   },
   {
     "id": 134,
     "top_prediction": "Benjamin Harrison",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Benjamin Harrison",
         "probability": 0.075
@@ -3498,21 +2426,13 @@
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.044
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.041
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.04
       }
     ]
   },
   {
     "id": 135,
     "top_prediction": "Lyndon B. Johnson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.075
@@ -3524,21 +2444,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.049
-      },
-      {
-        "speaker": "John F. Kennedy",
-        "probability": 0.044
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 136,
     "top_prediction": "Herbert Hoover",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Herbert Hoover",
         "probability": 0.061
@@ -3550,21 +2462,13 @@
       {
         "speaker": "Franklin D. Roosevelt",
         "probability": 0.05
-      },
-      {
-        "speaker": "Benjamin Harrison",
-        "probability": 0.047
-      },
-      {
-        "speaker": "Ulysses S. Grant",
-        "probability": 0.045
       }
     ]
   },
   {
     "id": 137,
     "top_prediction": "Benjamin Harrison",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Benjamin Harrison",
         "probability": 0.081
@@ -3576,21 +2480,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.047
-      },
-      {
-        "speaker": "Herbert Hoover",
-        "probability": 0.045
-      },
-      {
-        "speaker": "Theodore Roosevelt",
-        "probability": 0.039
       }
     ]
   },
   {
     "id": 138,
     "top_prediction": "Grover Cleveland",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Grover Cleveland",
         "probability": 0.058
@@ -3602,21 +2498,13 @@
       {
         "speaker": "Benjamin Harrison",
         "probability": 0.051
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.04
-      },
-      {
-        "speaker": "Andrew Johnson",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 139,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.186
@@ -3628,21 +2516,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.062
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.053
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.048
       }
     ]
   },
   {
     "id": 140,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.101
@@ -3654,21 +2534,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.053
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.051
-      },
-      {
-        "speaker": "Barack Obama",
-        "probability": 0.05
       }
     ]
   },
   {
     "id": 141,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.257
@@ -3680,21 +2552,13 @@
       {
         "speaker": "Barack Obama",
         "probability": 0.064
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.059
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.045
       }
     ]
   },
   {
     "id": 142,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.224
@@ -3706,21 +2570,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.074
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.052
-      },
-      {
-        "speaker": "George H. W. Bush",
-        "probability": 0.045
       }
     ]
   },
   {
     "id": 143,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.243
@@ -3732,21 +2588,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.083
-      },
-      {
-        "speaker": "Joe Biden",
-        "probability": 0.045
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.045
       }
     ]
   },
   {
     "id": 144,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.164
@@ -3758,21 +2606,13 @@
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.051
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.049
-      },
-      {
-        "speaker": "John F. Kennedy",
-        "probability": 0.049
       }
     ]
   },
   {
     "id": 145,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.129
@@ -3784,21 +2624,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.068
-      },
-      {
-        "speaker": "Barack Obama",
-        "probability": 0.055
-      },
-      {
-        "speaker": "John F. Kennedy",
-        "probability": 0.049
       }
     ]
   },
   {
     "id": 146,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.107
@@ -3810,21 +2642,13 @@
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.073
-      },
-      {
-        "speaker": "Barack Obama",
-        "probability": 0.049
-      },
-      {
-        "speaker": "John F. Kennedy",
-        "probability": 0.045
       }
     ]
   },
   {
     "id": 147,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.215
@@ -3836,21 +2660,13 @@
       {
         "speaker": "George W. Bush",
         "probability": 0.07
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.054
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.04
       }
     ]
   },
   {
     "id": 148,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.154
@@ -3862,21 +2678,13 @@
       {
         "speaker": "Barack Obama",
         "probability": 0.055
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.051
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.05
       }
     ]
   },
   {
     "id": 149,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.263
@@ -3888,21 +2696,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.08
-      },
-      {
-        "speaker": "Barack Obama",
-        "probability": 0.077
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.054
       }
     ]
   },
   {
     "id": 150,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.157
@@ -3914,21 +2714,13 @@
       {
         "speaker": "Barack Obama",
         "probability": 0.061
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.054
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.052
       }
     ]
   },
   {
     "id": 151,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.257
@@ -3940,21 +2732,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.063
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.057
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.052
       }
     ]
   },
   {
     "id": 152,
     "top_prediction": "Ronald Reagan",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ronald Reagan",
         "probability": 0.104
@@ -3966,21 +2750,13 @@
       {
         "speaker": "Bill Clinton",
         "probability": 0.056
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.056
-      },
-      {
-        "speaker": "Barack Obama",
-        "probability": 0.055
       }
     ]
   },
   {
     "id": 153,
     "top_prediction": "Ronald Reagan",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ronald Reagan",
         "probability": 0.093
@@ -3992,21 +2768,13 @@
       {
         "speaker": "Franklin D. Roosevelt",
         "probability": 0.057
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.056
-      },
-      {
-        "speaker": "Barack Obama",
-        "probability": 0.048
       }
     ]
   },
   {
     "id": 154,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.295
@@ -4018,21 +2786,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.083
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.056
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.041
       }
     ]
   },
   {
     "id": 155,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.187
@@ -4044,21 +2804,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.069
-      },
-      {
-        "speaker": "Barack Obama",
-        "probability": 0.058
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.055
       }
     ]
   },
   {
     "id": 156,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.174
@@ -4070,21 +2822,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.063
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.061
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.048
       }
     ]
   },
   {
     "id": 157,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.156
@@ -4096,21 +2840,13 @@
       {
         "speaker": "Barack Obama",
         "probability": 0.082
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.081
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.081
       }
     ]
   },
   {
     "id": 158,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.166
@@ -4122,21 +2858,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.061
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.053
-      },
-      {
-        "speaker": "John F. Kennedy",
-        "probability": 0.046
       }
     ]
   },
   {
     "id": 159,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.177
@@ -4148,21 +2876,13 @@
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.061
-      },
-      {
-        "speaker": "Barack Obama",
-        "probability": 0.047
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.047
       }
     ]
   },
   {
     "id": 160,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.388
@@ -4174,21 +2894,13 @@
       {
         "speaker": "George W. Bush",
         "probability": 0.055
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.05
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.045
       }
     ]
   },
   {
     "id": 161,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.132
@@ -4200,21 +2912,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.059
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.052
-      },
-      {
-        "speaker": "Barack Obama",
-        "probability": 0.048
       }
     ]
   },
   {
     "id": 162,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.397
@@ -4226,21 +2930,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.057
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.052
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.047
       }
     ]
   },
   {
     "id": 163,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.139
@@ -4252,21 +2948,13 @@
       {
         "speaker": "Barack Obama",
         "probability": 0.081
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.066
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.065
       }
     ]
   },
   {
     "id": 164,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.165
@@ -4278,21 +2966,13 @@
       {
         "speaker": "Barack Obama",
         "probability": 0.091
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.081
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.063
       }
     ]
   },
   {
     "id": 165,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.153
@@ -4304,21 +2984,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.07
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.064
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.057
       }
     ]
   },
   {
     "id": 166,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.38
@@ -4330,21 +3002,13 @@
       {
         "speaker": "George W. Bush",
         "probability": 0.061
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.05
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.047
       }
     ]
   },
   {
     "id": 167,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.124
@@ -4356,21 +3020,13 @@
       {
         "speaker": "Barack Obama",
         "probability": 0.071
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.061
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.057
       }
     ]
   },
   {
     "id": 168,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.278
@@ -4382,21 +3038,13 @@
       {
         "speaker": "Barack Obama",
         "probability": 0.061
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.056
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.051
       }
     ]
   },
   {
     "id": 169,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.34
@@ -4408,21 +3056,13 @@
       {
         "speaker": "George W. Bush",
         "probability": 0.073
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.061
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.045
       }
     ]
   },
   {
     "id": 170,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.168
@@ -4434,21 +3074,13 @@
       {
         "speaker": "Barack Obama",
         "probability": 0.056
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.056
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.05
       }
     ]
   },
   {
     "id": 171,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.166
@@ -4460,21 +3092,13 @@
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.065
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.053
-      },
-      {
-        "speaker": "Barack Obama",
-        "probability": 0.051
       }
     ]
   },
   {
     "id": 172,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.111
@@ -4486,21 +3110,13 @@
       {
         "speaker": "Lyndon B. Johnson",
         "probability": 0.052
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.043
-      },
-      {
-        "speaker": "Barack Obama",
-        "probability": 0.043
       }
     ]
   },
   {
     "id": 173,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.351
@@ -4512,21 +3128,13 @@
       {
         "speaker": "George W. Bush",
         "probability": 0.072
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.052
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.047
       }
     ]
   },
   {
     "id": 174,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.113
@@ -4538,21 +3146,13 @@
       {
         "speaker": "Franklin D. Roosevelt",
         "probability": 0.057
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.055
-      },
-      {
-        "speaker": "Barack Obama",
-        "probability": 0.051
       }
     ]
   },
   {
     "id": 175,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.154
@@ -4564,21 +3164,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.062
-      },
-      {
-        "speaker": "Franklin D. Roosevelt",
-        "probability": 0.05
-      },
-      {
-        "speaker": "Donald Trump",
-        "probability": 0.049
       }
     ]
   },
   {
     "id": 176,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.351
@@ -4590,21 +3182,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.068
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.064
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.045
       }
     ]
   },
   {
     "id": 177,
     "top_prediction": "Bill Clinton",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Bill Clinton",
         "probability": 0.221
@@ -4616,21 +3200,13 @@
       {
         "speaker": "Donald Trump",
         "probability": 0.061
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.054
-      },
-      {
-        "speaker": "George W. Bush",
-        "probability": 0.053
       }
     ]
   },
   {
     "id": 178,
     "top_prediction": "Calvin Coolidge",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Calvin Coolidge",
         "probability": 0.101
@@ -4642,21 +3218,13 @@
       {
         "speaker": "Herbert Hoover",
         "probability": 0.056
-      },
-      {
-        "speaker": "Theodore Roosevelt",
-        "probability": 0.048
-      },
-      {
-        "speaker": "Woodrow Wilson",
-        "probability": 0.047
       }
     ]
   },
   {
     "id": 179,
     "top_prediction": "Calvin Coolidge",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Calvin Coolidge",
         "probability": 0.102
@@ -4668,21 +3236,13 @@
       {
         "speaker": "Franklin D. Roosevelt",
         "probability": 0.057
-      },
-      {
-        "speaker": "Woodrow Wilson",
-        "probability": 0.046
-      },
-      {
-        "speaker": "Theodore Roosevelt",
-        "probability": 0.04
       }
     ]
   },
   {
     "id": 180,
     "top_prediction": "Woodrow Wilson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Woodrow Wilson",
         "probability": 0.067
@@ -4694,21 +3254,13 @@
       {
         "speaker": "Franklin D. Roosevelt",
         "probability": 0.052
-      },
-      {
-        "speaker": "John F. Kennedy",
-        "probability": 0.044
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.043
       }
     ]
   },
   {
     "id": 181,
     "top_prediction": "Franklin D. Roosevelt",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Franklin D. Roosevelt",
         "probability": 0.067
@@ -4720,21 +3272,13 @@
       {
         "speaker": "Ronald Reagan",
         "probability": 0.056
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.053
-      },
-      {
-        "speaker": "Woodrow Wilson",
-        "probability": 0.049
       }
     ]
   },
   {
     "id": 182,
     "top_prediction": "Calvin Coolidge",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Calvin Coolidge",
         "probability": 0.058
@@ -4746,21 +3290,13 @@
       {
         "speaker": "Woodrow Wilson",
         "probability": 0.043
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.041
-      },
-      {
-        "speaker": "John F. Kennedy",
-        "probability": 0.041
       }
     ]
   },
   {
     "id": 183,
     "top_prediction": "Calvin Coolidge",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Calvin Coolidge",
         "probability": 0.107
@@ -4772,21 +3308,13 @@
       {
         "speaker": "Herbert Hoover",
         "probability": 0.054
-      },
-      {
-        "speaker": "Woodrow Wilson",
-        "probability": 0.047
-      },
-      {
-        "speaker": "Theodore Roosevelt",
-        "probability": 0.044
       }
     ]
   },
   {
     "id": 184,
     "top_prediction": "Woodrow Wilson",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Woodrow Wilson",
         "probability": 0.065
@@ -4798,21 +3326,13 @@
       {
         "speaker": "Franklin D. Roosevelt",
         "probability": 0.048
-      },
-      {
-        "speaker": "Calvin Coolidge",
-        "probability": 0.047
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.043
       }
     ]
   },
   {
     "id": 185,
     "top_prediction": "Calvin Coolidge",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Calvin Coolidge",
         "probability": 0.106
@@ -4824,21 +3344,13 @@
       {
         "speaker": "Franklin D. Roosevelt",
         "probability": 0.061
-      },
-      {
-        "speaker": "Theodore Roosevelt",
-        "probability": 0.045
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.044
       }
     ]
   },
   {
     "id": 186,
     "top_prediction": "Franklin D. Roosevelt",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Franklin D. Roosevelt",
         "probability": 0.054
@@ -4850,21 +3362,13 @@
       {
         "speaker": "John F. Kennedy",
         "probability": 0.049
-      },
-      {
-        "speaker": "Woodrow Wilson",
-        "probability": 0.049
-      },
-      {
-        "speaker": "Ronald Reagan",
-        "probability": 0.046
       }
     ]
   },
   {
     "id": 187,
     "top_prediction": "Ronald Reagan",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ronald Reagan",
         "probability": 0.064
@@ -4876,21 +3380,13 @@
       {
         "speaker": "John F. Kennedy",
         "probability": 0.046
-      },
-      {
-        "speaker": "Lyndon B. Johnson",
-        "probability": 0.045
-      },
-      {
-        "speaker": "Calvin Coolidge",
-        "probability": 0.043
       }
     ]
   },
   {
     "id": 188,
     "top_prediction": "Calvin Coolidge",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Calvin Coolidge",
         "probability": 0.098
@@ -4902,21 +3398,13 @@
       {
         "speaker": "Franklin D. Roosevelt",
         "probability": 0.063
-      },
-      {
-        "speaker": "Theodore Roosevelt",
-        "probability": 0.047
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.039
       }
     ]
   },
   {
     "id": 189,
     "top_prediction": "Calvin Coolidge",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Calvin Coolidge",
         "probability": 0.09
@@ -4928,21 +3416,13 @@
       {
         "speaker": "Franklin D. Roosevelt",
         "probability": 0.057
-      },
-      {
-        "speaker": "Theodore Roosevelt",
-        "probability": 0.048
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.04
       }
     ]
   },
   {
     "id": 190,
     "top_prediction": "Ronald Reagan",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ronald Reagan",
         "probability": 0.05
@@ -4954,21 +3434,13 @@
       {
         "speaker": "Franklin D. Roosevelt",
         "probability": 0.039
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.036
-      },
-      {
-        "speaker": "Barack Obama",
-        "probability": 0.034
       }
     ]
   },
   {
     "id": 191,
     "top_prediction": "Barack Obama",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Barack Obama",
         "probability": 0.065
@@ -4980,21 +3452,13 @@
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.055
-      },
-      {
-        "speaker": "Joe Biden",
-        "probability": 0.048
-      },
-      {
-        "speaker": "Andrew Johnson",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 192,
     "top_prediction": "Grover Cleveland",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Grover Cleveland",
         "probability": 0.11
@@ -5006,21 +3470,13 @@
       {
         "speaker": "Andrew Johnson",
         "probability": 0.041
-      },
-      {
-        "speaker": "James K. Polk",
-        "probability": 0.037
-      },
-      {
-        "speaker": "Rutherford B. Hayes",
-        "probability": 0.033
       }
     ]
   },
   {
     "id": 193,
     "top_prediction": "Ulysses S. Grant",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.054
@@ -5032,21 +3488,13 @@
       {
         "speaker": "James K. Polk",
         "probability": 0.044
-      },
-      {
-        "speaker": "Andrew Johnson",
-        "probability": 0.043
-      },
-      {
-        "speaker": "Andrew Jackson",
-        "probability": 0.037
       }
     ]
   },
   {
     "id": 194,
     "top_prediction": "Ronald Reagan",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ronald Reagan",
         "probability": 0.045
@@ -5058,21 +3506,13 @@
       {
         "speaker": "Franklin D. Roosevelt",
         "probability": 0.038
-      },
-      {
-        "speaker": "Woodrow Wilson",
-        "probability": 0.038
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.038
       }
     ]
   },
   {
     "id": 195,
     "top_prediction": "Grover Cleveland",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Grover Cleveland",
         "probability": 0.045
@@ -5084,21 +3524,13 @@
       {
         "speaker": "James K. Polk",
         "probability": 0.04
-      },
-      {
-        "speaker": "Chester A. Arthur",
-        "probability": 0.04
-      },
-      {
-        "speaker": "Herbert Hoover",
-        "probability": 0.039
       }
     ]
   },
   {
     "id": 196,
     "top_prediction": "Grover Cleveland",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Grover Cleveland",
         "probability": 0.07
@@ -5110,21 +3542,13 @@
       {
         "speaker": "Chester A. Arthur",
         "probability": 0.048
-      },
-      {
-        "speaker": "Andrew Jackson",
-        "probability": 0.047
-      },
-      {
-        "speaker": "Rutherford B. Hayes",
-        "probability": 0.04
       }
     ]
   },
   {
     "id": 197,
     "top_prediction": "Ulysses S. Grant",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.069
@@ -5136,21 +3560,13 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.049
-      },
-      {
-        "speaker": "Chester A. Arthur",
-        "probability": 0.041
-      },
-      {
-        "speaker": "Rutherford B. Hayes",
-        "probability": 0.04
       }
     ]
   },
   {
     "id": 198,
     "top_prediction": "Ulysses S. Grant",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Ulysses S. Grant",
         "probability": 0.09
@@ -5162,21 +3578,13 @@
       {
         "speaker": "James K. Polk",
         "probability": 0.049
-      },
-      {
-        "speaker": "Rutherford B. Hayes",
-        "probability": 0.04
-      },
-      {
-        "speaker": "Grover Cleveland",
-        "probability": 0.039
       }
     ]
   },
   {
     "id": 199,
     "top_prediction": "Grover Cleveland",
-    "distribution": [
+    "top_3": [
       {
         "speaker": "Grover Cleveland",
         "probability": 0.082
@@ -5188,14 +3596,6 @@
       {
         "speaker": "Andrew Jackson",
         "probability": 0.043
-      },
-      {
-        "speaker": "Rutherford B. Hayes",
-        "probability": 0.04
-      },
-      {
-        "speaker": "Andrew Johnson",
-        "probability": 0.037
       }
     ]
   }
